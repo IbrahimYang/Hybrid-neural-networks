@@ -8,7 +8,7 @@ Code and extended data will be available after the paper is published.
 
 HSN: hybrid sensing network (coming soon...)
 
-HMN: hybrid modulation network (coming soon...)
+HMN: hybrid modulation network now is available
 
 HRN: hybrid reasoning network now is available
 
