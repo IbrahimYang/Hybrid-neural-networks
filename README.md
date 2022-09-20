@@ -6,9 +6,9 @@ You can download our paper at https://www.nature.com/articles/s41467-022-30964-7
 
 Code and extended data will be available after the paper is published. 
 
-# HMN: hybrid modulation network now is available
+## HMN: hybrid modulation network now is available
 
-# HRN: hybrid reasoning network now is available
+## HRN: hybrid reasoning network now is available
 dataset: [CLEVRER|http://clevrer.csail.mit.edu/]
 The visual representations are extracted by RCNN, and then transformed by HU. Each ".pkl" file in the folder "./HRN/data/HU_final/" indicates a video.
 The reasoning program are interpreated by SEM, stored in "./HRN/data/programs.pkl"
