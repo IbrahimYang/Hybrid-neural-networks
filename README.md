@@ -9,10 +9,13 @@ Code and extended data will be available after the paper is published.
 ## HMN: hybrid modulation network now is available
 
 ## HRN: hybrid reasoning network now is available
-dataset: [CLEVRER|http://clevrer.csail.mit.edu/]
+dataset: [CLEVRER](http://clevrer.csail.mit.edu/).
+
 The visual representations are extracted by RCNN, and then transformed by HU. Each ".pkl" file in the folder "./HRN/data/HU_final/" indicates a video.
-The reasoning program are interpreated by SEM, stored in "./HRN/data/programs.pkl"
-When running "./HRN/run.py", firstly an HU transform the visual representation into network connections and weights, with the help of "./HRN/executor.py" and "./HRN/simulation.py", which are altered version of the part of the code in [NS-VQA|https://github.com/kexinyi/ns-vqa]; secondly another HU transform programs into spiking trains to stimulate the network for reasoning process; lastly a simple read-out program detect the final spiking pattern of the network to provide the answer in text form. 
+
+The reasoning program are interpreated by SEM, stored in "./HRN/data/programs.pkl".
+
+When running "./HRN/run.py", firstly an HU transform the visual representation into network connections and weights, with the help of "./HRN/executor.py" and "./HRN/simulation.py", which are altered version of the part of the code in [NS-VQA](https://github.com/kexinyi/ns-vqa); secondly another HU transform programs into spiking trains to stimulate the network for reasoning process; lastly a simple read-out program detect the final spiking pattern of the network to provide the answer in text form. 
 
 ## Citation
 
