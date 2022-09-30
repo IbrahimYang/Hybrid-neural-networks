@@ -12,7 +12,10 @@ This is an initial version, we will update the dataset and pre-trained model soo
 After run the code, you may get following results. The green box is the ground turth and the bule box is HSN output. 
 
 
-https://user-images.githubusercontent.com/18552022/193254398-a2214f74-f1d8-4ca2-9f8c-6f47c4b2be7c.mp4
+https://user-images.githubusercontent.com/18552022/193255034-a189f05c-5e63-4f8c-9f16-7dbf85c9d1f4.mp4
+
+
+
 
 
 ## HMN: hybrid modulation network now is available
