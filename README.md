@@ -7,6 +7,7 @@ You can download our paper at https://www.nature.com/articles/s41467-022-30964-7
 Code and extended data will be available after the paper is published. 
 
 ## HSN: hybrid sensing network now is available
+This is an initial version, we will update the dataset and pre-trained model soon...
 
 ## HMN: hybrid modulation network now is available
 
