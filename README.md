@@ -4,12 +4,10 @@ Code of paper "A Framework for the General Design and Computation of Hybrid Neur
 
 You can download our paper at https://www.nature.com/articles/s41467-022-30964-7
 
-Code and extended data will be available after the paper is published. 
-
 ## HSN: hybrid sensing network now is available
 This is an initial version, we will update the dataset and pre-trained model soon...
-
-After run the code, you may get following results. The green box is the ground turth and the bule box is HSN output. 
+After running the code, you may get the following results. The green box is the ground truth and the blue box is the HSN output. 
+You may find that traditional frame-based imagers can only track objects with a larger time interval, leading to poor spatial and temporal consistency. Also, it may fail to recognize the trajectory.
 
 ![demo_video](https://user-images.githubusercontent.com/18552022/193256636-4ca90f78-d832-4bfd-8d44-2980f740ba75.gif)
 
