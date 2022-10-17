@@ -6,7 +6,7 @@ You can download our paper at https://www.nature.com/articles/s41467-022-30964-7
 
 ## HSN: hybrid sensing network now is available
 
-After running the code, you may get the following results. The green box is the ground truth and the blue box is the HSN output. 
+After running the code, you may get the following results. From the original dataset, the background is APS, the red points are DVS outputs. The green box is the ground truth of objects and the blue box is the HSN outputs. 
 You may find that traditional frame-based imagers can only track objects with a larger time interval, leading to poor spatial and temporal consistency. 
 
 We capture a turning disk dataset by DAVIS240. The two steams are the same turning disk with different rolling speed.
