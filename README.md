@@ -6,7 +6,7 @@ You can download our paper at https://www.nature.com/articles/s41467-022-30964-7
 
 ## HSN: hybrid sensing network now is available
 
-After running the code, you may get a video like the one below, with high frame rate DVS sensor data draw on the low frame rate APS background. The green boxes in the video are ground truth target location and blue boxes are the prediction of HSN model. 
+After running the code, you may get a video like the one below, with high frame rate DVS sensor data drawn above the low frame rate APS background. The green boxes in the video are ground truth target locations and blue boxes are the predictions of HSN model. 
 
 This video is a demonstration of HSN model on a toy dataset of a rotating disk captured by ourselves using a DAVIS240 sensor. This toy dataset is free to download from the following link: https://cloud.tsinghua.edu.cn/d/59c05f980929412480e1/. In it you may find two recordings of the same disk rotating at different speed.
 In our demo, "dvSave-2020_07_23_10_28_47.aedat4" was used as the trainset and "dvSave-2020_07_23_10_28_03.aedat4" the testset.
