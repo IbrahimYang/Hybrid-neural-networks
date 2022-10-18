@@ -61,11 +61,17 @@ The code structure of this projects is
 The code structure of HSN is
 >HSN-hybrid sensing network
 >>aedat4_data
+>>
 >>ckpt
+>>
 >>demo video
+>>
 >>aedat4_dataset.py
+>>
 >>main.py
+>>
 >>model.py
+>>
 >>snn_model.py
 
 After running the code, you may get a video like the one below, with high frame rate DVS sensor data drawn above the low frame rate APS background. The green boxes in the video are ground truth target locations and blue boxes are the predictions of HSN model. 
