@@ -7,11 +7,29 @@ You can download our paper at https://www.nature.com/articles/s41467-022-30964-7
 The code structure of this projects is
 >Hybrid-neural-networks
 >>HSN-hybrid sensing network
->>
+>>>aedat4_data
+>>>ckpt
+>>>demo video
+>>>aedat4_dataset.py
+>>>main.py
+>>>model.py
+>>>snn_model.py
 >>HMN-hybrid modulation network
->>
+>>>gate_analysis.py
+>>>gate_hybrid_model_merge_EWC.py
+>>>gate_hybrid_model_v2.py
+>>>generate_MNIST.py
+>>>loadmat.py
+>>>mat_loader.py
+>>>similarity_test.py
+>>>train_dvs_merge_EWC.py
+>>>utils.py
 >>HRN-hybrid reasoning network
->>
+>>>data
+>>>SNN.py
+>>>executor.py
+>>>run.py
+>>>simulation.py
 >>README.md
 
 ## HSN: hybrid sensing network now is available
