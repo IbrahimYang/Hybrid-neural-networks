@@ -7,7 +7,9 @@ You can download our paper at https://www.nature.com/articles/s41467-022-30964-7
 The code structure of this projects is
 >Hybrid-neural-networks
 >>HSN-hybrid sensing network
+>>
 >>HMN-hybrid modulation network
+>>
 >>HRN-hybrid reasoning network
 >>README.md
 
