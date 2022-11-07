@@ -13,7 +13,7 @@ In our demo, "dvSave-2020_07_23_10_28_47.aedat4" was used as the trainset and "d
 
 ![demo_video](https://user-images.githubusercontent.com/18552022/193256636-4ca90f78-d832-4bfd-8d44-2980f740ba75.gif)
 
-Notebly, these two sequences are just toy datasets for demonstration and quick experiment. For a more realistic application, the HSN model was also tested on NFS http://ci2cv.net/nfs/index.html and Clevrer http://clevrer.csail.mit.edu/ dataset, which can both be downloaded from their official websites. Please see our paper for more detailed results.
+Notebly, these two sequences are just toy datasets for demonstration and quick experiment. For a more realistic application, the HSN model was also tested on NFS http://ci2cv.net/nfs/index.html and Clevrer http://clevrer.csail.mit.edu/ dataset, which can both be downloaded from their official websites. Please see our paper for more details.
 
 ## HMN: hybrid modulation network now is available
 
