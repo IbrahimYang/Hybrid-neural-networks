@@ -4,7 +4,7 @@ Code of paper "A Framework for the General Design and Computation of Hybrid Neur
 
 You can download our paper at https://www.nature.com/articles/s41467-022-30964-7
 
-Now, we update a trianing framework and code temporal for HNN, making us can easliy build your own HNNs model. https://github.com/openBII/HNN
+Now, our lab updates a new trianing framework and code temporal for HNN, making us can easliy build your own HNNs model. https://github.com/openBII/HNN
 
 ## HSN: hybrid sensing network now is available
 
